@@ -1,8 +1,8 @@
- **_PAPER#2_**
+ # PAPER#2
 
 **Title: UI Screens Identification and Exraction from Mobile Programming Screencasts.**
 
-**#Authors:**
+# Authors:
 
 1: Mohmmad Alahmadi
 
@@ -10,7 +10,7 @@
 
 3: Sonia Haiduc
 
-Conference Name:  International Conference on Program Comprehension (13-15 July 2020).
+# Conference Name:  International Conference on Program Comprehension (13-15 July 2020).
 
 Published Date: Tue 14 Jul 2020 02:00 - 02:15 at ICPC - Session 4
 
